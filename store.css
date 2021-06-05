@@ -1,0 +1,27 @@
+#main{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.img{
+    float: left;
+    width: 20%;
+    padding: 3px;
+  }
+
+  .img img{
+border: 1px solid black;
+border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    width: 230px;
+    height: 250px;
+  }
+  .img h3{
+      margin-left: 20px;
+  }
+  .img span{
+      margin-left:20px ;
+  }
+
+
+
